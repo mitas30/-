@@ -1,4 +1,4 @@
-src/env/
+src/.env/
 vue/dist/
 vue/.vscode/
 vue/node_modules/
