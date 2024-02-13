@@ -5,9 +5,32 @@
 
 詳細な設計については[こちら](URLを貼る)
 
-
-
-## demo動画  
+## デモビデオ 
 https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/55631110-a75e-455d-a945-1d55f83efa7a
 
+## 特徴
+- a
 
+# 技術概要
+## System Architecture Diagram
+### batch処理
+[図](URL)
+### 特許探索処理
+[図](URL)
+
+## Technologies Used
+### python:
+- [gemini-pro](https://platform.openai.com/docs/api-reference/chat)
+- [embedding(made by OpenAI)](https://platform.openai.com/docs/api-reference/embeddings)
+- [numpy](https://numpy.org/ja/),[fastcluster](https://danifold.net/fastcluster.html),[scilit-learn](https://scikit-learn.org/stable/),[scipy](https://scipy.org/)
+- [matplotlib](https://matplotlib.org/stable/api/pyplot_summary.html#module-matplotlib.pyplot)
+- [flask](https://flask.palletsprojects.com/en/3.0.x/),[flask_socketio](https://flask-socketio.readthedocs.io/en/latest/)
+- [mongoDB](https://pymongo.readthedocs.io/en/stable/),[redis](https://github.com/redis/redis-py),[pinecone](https://docs.pinecone.io/reference/upsert)
+- [Mupdf](https://pymupdf.readthedocs.io/ja/latest/)
+- [concurrent.futures](https://docs.python.org/ja/3/library/concurrent.futures.html)
+
+### javascript:
+- [Vue.js](https://ja.vuejs.org/)
+- [vue-router(for_SPA)](https://router.vuejs.org/)
+- [socket.io](https://socket.io/)
+- [axios](https://github.com/axios/axios)
