@@ -7,3 +7,7 @@
 
 
 
+## demo動画  
+https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/55631110-a75e-455d-a945-1d55f83efa7a
+
+
