@@ -1,13 +1,13 @@
 import os,google.generativeai as genai
 from openai import OpenAI
 import requests,time,fastcluster,numpy as np,matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
 from typing import List,Union,Tuple
 from numpy import ndarray
 from model import KeywordManager,PineConeAdmin,PatentsAdmin,PatentOfficeAdmin
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE 
 from scipy.cluster.hierarchy import fcluster
-from matplotlib.colors import ListedColormap
 
 class LLMManipulator():
     """LLMのAPI関連を行うクラス"""
