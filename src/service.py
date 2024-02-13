@@ -302,8 +302,8 @@ class PatentOffice:
     
     def auth(self):
         po_admin=PatentOfficeAdmin()
-        username = "g7nt4ga-q-s3"
-        password = "yjdy9siq2k.2"
+        username = os.getenv("PATENT_OFFICE_USERNAME")
+        password = os.getenv("PATNENT_OFFICE_PASS")
 
         # トークン取得のためのデータ
         data = {
