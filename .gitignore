@@ -1,4 +1,4 @@
-SearchPatentAI/env/
-VueSearchPatent/dist/
-VueSearchPatent/.vscode/
-VueSearchPatent/node_modules/
+src/env/
+vue/dist/
+vue/.vscode/
+vue/node_modules/
