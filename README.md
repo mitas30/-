@@ -32,6 +32,7 @@ https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/55631110-a75e-455
 ![pre_activity](https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/5493b22a-b84e-4543-a38a-6087ddcb3e02)
 
 ### 特許探索処理
+![main_activity](https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/5962d5fa-bf97-4e01-92ac-f177553d9e5e)
 
 
 ## 使用した主要ライブラリ、API
