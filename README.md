@@ -29,7 +29,8 @@ https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/55631110-a75e-455
 # 技術概要
 ## workflow
 ### batch処理
-![pre_activity](https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/65c48553-12f7-4ad8-a848-713ad0b53470)
+![pre_activity](https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/5493b22a-b84e-4543-a38a-6087ddcb3e02)
+
 ### 特許探索処理
 
 
