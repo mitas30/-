@@ -29,9 +29,9 @@ https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/55631110-a75e-455
 # 技術概要
 ## workflow
 ### batch処理
-[図](URL)
+![pre_activity](https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/65c48553-12f7-4ad8-a848-713ad0b53470)
 ### 特許探索処理
-[図](URL)
+
 
 ## 使用した主要ライブラリ、API
 ### python:
