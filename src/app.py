@@ -1,4 +1,4 @@
-from flask import Flask,request
+from flask import Flask,request,render_template
 from flask_blueprint.api import api
 from flask_socketio import SocketIO
 from flask_cors import CORS
@@ -51,9 +51,14 @@ def socketioStart():
     result_dict_list=fsresult.setSimPatentsInfo(similar_patent_list)
     r.set("similar_res",json.dumps(result_dict_list))
     socketio.emit('response_ready')
+    
+@app.route('/')
+def root():
+    return render_template('index.html')
 
 #コマンドラインから実行された場合のみ、__name__=='__main__'となる
 if __name__ == '__main__':
     socketio.run(app,debug=True)
     r.flushall()
+    app.run(debug=True)
 

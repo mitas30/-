@@ -1,4 +1,5 @@
 src/.env/
+src/__pycache__/
 vue/dist/
 vue/.vscode/
 vue/node_modules/

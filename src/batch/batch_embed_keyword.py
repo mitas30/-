@@ -1,4 +1,3 @@
-#TODO modelからではなく、service層からのみ行えるように
 #keywordをembedしてデータ保存する スレッドでの並行処理を行って高速化する
 import sys
 sys.path.append("D:\OneDrive - 筑波大学\自主制作\特許探索アプリ\SearchPatentAI")

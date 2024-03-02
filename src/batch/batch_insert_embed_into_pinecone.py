@@ -1,4 +1,3 @@
-#TODO modelからではなく、service層からのみ行えるように
 #embedされたkeywordをpineconeに格納するbatch処理
 import sys
 sys.path.append("D:\OneDrive - 筑波大学\自主制作\特許探索アプリ\SearchPatentAI")

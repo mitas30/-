@@ -1,4 +1,3 @@
-#TODO modelからではなく、service層からのみ行えるように
 #特許の説明から、特許を端的に表す10個のキーワードを抽出する
 import sys
 sys.path.append("D:\OneDrive - 筑波大学\自主制作\特許探索アプリ\SearchPatentAI")
